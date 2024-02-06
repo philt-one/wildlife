@@ -120,33 +120,24 @@ Project Link: [https://github.com/philt-one/wildlife/](https://github.com/philt-
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/philt-one/wildlife.svg
 [contributors-url]: https://github.com/philt-one/wildlife/graphs/contributors
+
 [forks-shield]: https://img.shields.io/github/forks/philt-one/wildlife.svg
 [forks-url]: https://github.com/philt-one/wildlife/network/members
+
 [stars-shield]: https://img.shields.io/github/stars/philt-one/wildlife.svg
 [stars-url]: https://github.com/philt-one/wildlife/stargazers
+
 [issues-shield]: https://img.shields.io/github/issues/philt-one/wildlife.svg
 [issues-url]: https://github.com/philt-one/wildlife/issues
+
 [license-shield]: https://img.shields.io/github/license/philt-one/wildlife.svg
 [license-url]: https://github.com/philt-one/wildlife/blob/master/LICENSE.txt
+
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+
+[linkedin-url]: https://www.linkedin.com/in/philippe-talarico/
+
 [product-screenshot]: ./images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
 
 [React-Native]: https://img.shields.io/badge/React-Native-20232A?logo=react&logoColor=61DAFB
 [React-Native-url]: https://reactnative.dev/
