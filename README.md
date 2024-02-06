@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/philt-one/wildlife">
-    <img src="images/logo.jpg" alt="Logo" width="180" height="180">
+    <img src="images/logo.png" alt="Logo" width="180" height="180">
   </a>
 
   <h3 align="center">WildLife</h3>
@@ -58,13 +58,9 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [![React-Native][React-Native]][React-Native-url]
 
